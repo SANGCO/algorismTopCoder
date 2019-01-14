@@ -18,7 +18,7 @@ public class InterestingDigits {
 
     private static void printArray(int[] digits) {
         for (int i : digits) {
-            System.out.print(i);
+            System.out.print(i + ",");
         }
         System.out.println();
     }
@@ -41,7 +41,7 @@ public class InterestingDigits {
                     }
                     if(!ok) break;
                 }
-                if(!ok) v.add(n);
+                if(!ok) break;
             }
             if(ok) v.add(n);
         }
@@ -55,12 +55,12 @@ public class InterestingDigits {
     private static int[] digits2(int base) {
         ArrayList<Integer> v = new ArrayList();
 
-        for(int i = 2; i < base; i++) {
-           if( ( (base - 1) % i) == 0) v.add(i);
+        for(int n = 2; n < base; n++) {
+           if( ( (base - 1) % n) == 0) v.add(n);
         }
 
         int[] ans = new int[v.size()];
-        for(int i = 0; i < v.size(); i++) ans[i] = v.get(i);
+        for(int n = 0; n < v.size(); n++) ans[n] = v.get(n);
 
         return ans;
     }
