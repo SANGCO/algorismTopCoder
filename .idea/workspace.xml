@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5193874a-1327-492f-848d-18e3da1e68c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TopCoder_04/InterestingDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TopCoder_04/InterestingDigits.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,52 +19,102 @@
     <session id="-1698427370">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="11" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="11" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2704" />
+          <entry key="java" value="3357" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2704" />
+          <entry key="JAVA" value="3357" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="24" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.481402">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#144#145#0" expanded="true" />
+                    <element signature="e#168#169#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="365">
+                  <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#212#213#0" expanded="true" />
+                    <element signature="e#258#259#0" expanded="true" />
+                    <element signature="e#292#293#0" expanded="true" />
+                    <element signature="e#347#348#0" expanded="true" />
+                    <element signature="e#388#389#0" expanded="true" />
+                    <element signature="e#443#444#0" expanded="true" />
+                    <element signature="e#512#513#0" expanded="true" />
+                    <element signature="e#571#572#0" expanded="true" />
+                    <element signature="e#610#611#0" expanded="true" />
+                    <element signature="e#669#670#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -96,6 +149,9 @@
         <option value="$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingParty.java" />
         <option value="$PROJECT_DIR$/src/main/java/TopCoder_04/Cryptography.java" />
         <option value="$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java" />
       </list>
     </option>
   </component>
@@ -137,7 +193,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,20 +226,57 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="TopCoder_04" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="com.sangco.algorism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorismTopCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.sangco.algorism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorismTopCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.sangco.algorism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorismTopCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TopCoder_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.sangco.algorism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547438429986" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548043119489" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="TopCoder_04" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterestingDigits">
+  <component name="RunManager" selected="JUnit.ThePalindromeTest">
     <configuration name="Cryptography" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TopCoder_04.Cryptography" />
       <module name="com.sangco.algorism" />
@@ -238,8 +330,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KiwiJuiceEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TopCoder_04.KiwiJuiceEasy" />
+    <configuration name="ThePalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.sangco.algorism" />
       <extension name="coverage">
         <pattern>
@@ -247,22 +338,42 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TopCoder_04" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindromeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThePalindromeTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.sangco.algorism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TopCoder_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TopCoder_04" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindromeTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KiwiJuiceEasy" />
       <item itemvalue="Application.InterestingParty" />
       <item itemvalue="Application.Cryptography" />
       <item itemvalue="Application.InterestingDigits" />
+      <item itemvalue="JUnit.ThePalindromeTest.test" />
+      <item itemvalue="JUnit.ThePalindromeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThePalindromeTest" />
+        <item itemvalue="JUnit.ThePalindromeTest.test" />
         <item itemvalue="Application.InterestingDigits" />
         <item itemvalue="Application.Cryptography" />
         <item itemvalue="Application.InterestingParty" />
-        <item itemvalue="Application.KiwiJuiceEasy" />
       </list>
     </recent_temporary>
   </component>
@@ -280,17 +391,34 @@
       <workItem from="1546573851697" duration="1387000" />
       <workItem from="1546919112320" duration="1635000" />
       <workItem from="1547177758360" duration="3031000" />
-      <workItem from="1547437118515" duration="1257000" />
+      <workItem from="1547437118515" duration="1888000" />
+      <workItem from="1547696409805" duration="2139000" />
+      <workItem from="1548041943191" duration="1060000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ThePalindromeTest_test - 2019.01.21 at 12h 49m 22s.xml">
+      <configuration name="ThePalindromeTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThePalindromeTest_test - 2019.01.21 at 12h 49m 51s.xml">
+      <configuration name="ThePalindromeTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThePalindromeTest_test - 2019.01.21 at 12h 50m 07s.xml">
+      <configuration name="ThePalindromeTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThePalindromeTest_test - 2019.01.21 at 12h 56m 45s.xml">
+      <configuration name="ThePalindromeTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9446000" />
+    <option name="totallyTimeSpent" value="13276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18955651" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23104435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,14 +427,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35286623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35286623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27261147" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.27261147" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32866243" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -331,9 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -353,8 +478,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="286">
+          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
