@@ -34,4 +34,10 @@ public class ThePalindromeTest {
         assertEquals(thePalindrome.find("abdfhdyrbdbsdfghjkllkjhgfds"), 38);
     }
 
+    @Test
+    public void case_05() {
+        assertEquals(thePalindrome.find("abcfff"), 9);
+    }
+
+
 }
