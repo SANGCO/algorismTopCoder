@@ -2,34 +2,23 @@ package TopCoder_04;
 
 public class ThePalindrome2 {
 
-    public int solution(String s)
-    {
-        int answer = 0;
-        StringBuilder sb;
+    public int solution(String s) {
 
-        for (int i=0; i < s.length(); i++) {
-            sb = new StringBuilder();
-            sb.append(s.charAt(i));
+        for (int i = s.length(); ; i--) {
+            boolean flag = true;
 
-            for (int j=i+1; j < s.length(); j++) {
-                sb.append(s.charAt(j));
-                if( s.charAt(i) == s.charAt(j) ) {
-                    int length = checkPalindrome(sb);
-                    if( (answer < length) || (answer == 0) ) {
-                        answer = length;
-                        break;
-                    }
+            for (int j = 0; j < s.length(); j++) {
+
+                if (j < (i - j - 1) && s.charAt(j) != s.charAt(i - j - 1)) {
+                    System.out.println("s.charAt(i - j - 1) " + s.charAt(i - j - 1));
+                    System.out.println("s.charAt(j) " + s.charAt(j));
+                    flag = false;
+                    break;
                 }
             }
-        }
-        return answer;
-    }
 
-    private int checkPalindrome(StringBuilder sb) {
-        if( sb.reverse().toString().equals(sb.toString()) ) {
-            return sb.length();
+            if (flag) return i;
         }
-        return 0;
     }
 
 }
