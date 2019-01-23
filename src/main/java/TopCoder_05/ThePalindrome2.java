@@ -1,4 +1,4 @@
-package TopCoder_04;
+package TopCoder_05;
 
 public class ThePalindrome2 {
 

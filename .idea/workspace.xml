@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5193874a-1327-492f-848d-18e3da1e68c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/FriendScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TopCoder_05/FriendScoreTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/Cryptography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/Cryptography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/InterestingDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/InterestingParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/KiwiJuiceEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/KiwiJuiceEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/ThePalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopCoder_05/ThePalindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindrome2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TopCoder_05/ThePalindrome2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TopCoder_05/ThePalindromeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,25 +34,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="20" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="20" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3824" />
+          <entry key="java" value="4439" />
           <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3824" />
+          <entry key="JAVA" value="4439" />
           <entry key="XML" value="10" />
         </counts>
       </usages-collector>
@@ -53,54 +62,39 @@
     <favorites_list name="com.sangco.algorism" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.40915594">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/FriendScore.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="145">
-                  <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#306#307#0" expanded="true" />
-                    <element signature="e#363#364#0" expanded="true" />
-                    <element signature="e#402#403#0" expanded="true" />
-                    <element signature="e#464#465#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="30">
+                  <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_05/FriendScoreTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindrome2Test.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+                <state relative-caret-position="585">
+                  <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#262#263#0" expanded="true" />
-                    <element signature="e#319#320#0" expanded="true" />
-                    <element signature="e#358#359#0" expanded="true" />
-                    <element signature="e#420#421#0" expanded="true" />
+                    <element signature="e#197#198#0" expanded="true" />
+                    <element signature="e#249#250#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_05/ThePalindrome2Test.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -111,10 +105,13 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_05/ThePalindrome2Test.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+                <state relative-caret-position="285">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -168,6 +165,8 @@
         <option value="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindrome2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TopCoder_05/FriendScore.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TopCoder_05/FriendScoreTest.java" />
       </list>
     </option>
   </component>
@@ -240,7 +239,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TopCoder_04" type="462c0819:PsiDirectoryNode" />
+              <item name="TopCoder_05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.sangco.algorism" type="b2602c69:ProjectViewProjectNode" />
@@ -261,7 +260,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TopCoder_04" type="462c0819:PsiDirectoryNode" />
+              <item name="TopCoder_05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.sangco.algorism" type="b2602c69:ProjectViewProjectNode" />
@@ -277,7 +276,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548174722673" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548216510073" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -288,6 +287,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="TopCoder_05" />
       <recent name="TopCoder_04" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -306,17 +306,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ThePalindrome2Test">
+  <component name="RunManager" selected="JUnit.FriendScoreTest.case_03">
+    <configuration name="FriendScoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.sangco.algorism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TopCoder_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TopCoder_05" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_05.FriendScoreTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendScoreTest.case_03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.sangco.algorism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TopCoder_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TopCoder_05" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_05.FriendScoreTest" />
+      <option name="METHOD_NAME" value="case_03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThePalindrome2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.sangco.algorism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TopCoder_04.*" />
+          <option name="PATTERN" value="TopCoder_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TopCoder_04" />
-      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindrome2Test" />
+      <option name="PACKAGE_NAME" value="TopCoder_05" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_05.ThePalindrome2Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -325,45 +355,13 @@
       <module name="com.sangco.algorism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TopCoder_04.*" />
+          <option name="PATTERN" value="TopCoder_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TopCoder_04" />
-      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindrome2Test" />
+      <option name="PACKAGE_NAME" value="TopCoder_05" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_05.ThePalindrome2Test" />
       <option name="METHOD_NAME" value="case_01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThePalindromeTest.case_02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.sangco.algorism" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TopCoder_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TopCoder_04" />
-      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindromeTest" />
-      <option name="METHOD_NAME" value="case_02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThePalindromeTest.case_03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.sangco.algorism" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TopCoder_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TopCoder_04" />
-      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindromeTest" />
-      <option name="METHOD_NAME" value="case_03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -373,12 +371,12 @@
       <module name="com.sangco.algorism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TopCoder_04.*" />
+          <option name="PATTERN" value="TopCoder_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TopCoder_04" />
-      <option name="MAIN_CLASS_NAME" value="TopCoder_04.ThePalindromeTest" />
+      <option name="PACKAGE_NAME" value="TopCoder_05" />
+      <option name="MAIN_CLASS_NAME" value="TopCoder_05.ThePalindromeTest" />
       <option name="METHOD_NAME" value="case_05" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -386,19 +384,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ThePalindromeTest.case_02" />
-      <item itemvalue="JUnit.ThePalindromeTest.case_03" />
       <item itemvalue="JUnit.ThePalindromeTest.case_05" />
       <item itemvalue="JUnit.ThePalindrome2Test.case_01" />
       <item itemvalue="JUnit.ThePalindrome2Test" />
+      <item itemvalue="JUnit.FriendScoreTest" />
+      <item itemvalue="JUnit.FriendScoreTest.case_03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FriendScoreTest.case_03" />
+        <item itemvalue="JUnit.FriendScoreTest" />
         <item itemvalue="JUnit.ThePalindrome2Test" />
         <item itemvalue="JUnit.ThePalindrome2Test.case_01" />
         <item itemvalue="JUnit.ThePalindromeTest.case_05" />
-        <item itemvalue="JUnit.ThePalindromeTest.case_03" />
-        <item itemvalue="JUnit.ThePalindromeTest.case_02" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +454,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19130000" />
+    <option name="totallyTimeSpent" value="20071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,7 +485,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25477707" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30318472" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32866243" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -500,6 +498,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36815286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3656051" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30318472" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -508,28 +536,28 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/KiwiJuiceEasy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/KiwiJuiceEasy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/Cryptography.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/Cryptography.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingParty.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/InterestingParty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/InterestingDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/InterestingDigits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
@@ -543,24 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindrome2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_05/ThePalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_04/ThePalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="240">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
@@ -571,17 +585,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/ThePalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_04/ThePalindrome2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/ThePalindrome2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_05/ThePalindrome2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopCoder_05/FriendScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TopCoder_05/FriendScoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
